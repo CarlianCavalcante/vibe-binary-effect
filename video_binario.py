@@ -76,7 +76,7 @@ def gerar_video_vibe_limpo(caminho_in, caminho_out):
 
 # --- EXECUÇÃO ---
 # Troque pelos seus caminhos reais:
-video_input = r"C:\Users\caval\Videos\eu.mov" 
-video_output = r"C:\Users\caval\Videos\resultado_vibe_limpo.mp4"
+video_input = r"C:\Users\Videos\seu-video.mov" 
+video_output = r"C:\Users\Videos\resultado_vibe_limpo.mp4"
 
 gerar_video_vibe_limpo(video_input, video_output)

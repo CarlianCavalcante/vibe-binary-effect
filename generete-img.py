@@ -67,7 +67,7 @@ def gerar_efeito_vibe(caminho_entrada, caminho_saida):
         print(f"Ocorreu um erro: {e}")
 
 # --- EXECUÇÃO ---
-arquivo_entrada = r"C:\Users\caval\Videos\ceu.jpg"
-arquivo_saida = r"C:\Users\caval\Videos\resultado_vibe.png"
+arquivo_entrada = r"C:\Users\Videos\seu-imagem.jpg"
+arquivo_saida = r"C:\Users\Videos\resultado_vibe.png"
 
 gerar_efeito_vibe(arquivo_entrada, arquivo_saida)
